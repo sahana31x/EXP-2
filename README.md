@@ -58,12 +58,14 @@ Load Circuit: <img width="503" height="301" alt="image" src="https://github.com/
 
 Calculation:  
 
-Open circuit characteristics: <img width="614" height="811" alt="image" src="https://github.com/user-attachments/assets/6df365c5-058b-4352-b86b-9aef3a27d1fd" />
-                              <img width="1266" height="780" alt="image" src="https://github.com/user-attachments/assets/84a4b81b-0dd2-44f8-958a-8b683185799b" />
+Open circuit characteristics: <img width="449" height="417" alt="image" src="https://github.com/user-attachments/assets/557b472c-d2ac-44db-a02a-60ee3b2c517a" />
+
+                             <img width="1266" height="780" alt="image" src="https://github.com/user-attachments/assets/84a4b81b-0dd2-44f8-958a-8b683185799b" />
 
 
   
-Load Circuit Characteristics: <img width="647" height="771" alt="image" src="https://github.com/user-attachments/assets/756c010d-6277-4b12-a39e-113150cfe973" />
+Load Circuit Characteristics: <img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/9629b3a1-5345-4e66-8ec5-b94a9fb34f9b" />
+
                               <img width="1133" height="705" alt="image" src="https://github.com/user-attachments/assets/84481f15-40b6-4880-8311-f95b9b5ae1f2" />
 
  
