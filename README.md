@@ -52,21 +52,18 @@ Tabulation for Open Circuit Test: <img width="361" height="271" alt="image" src=
 Tabulation for Load Circuit Test: <img width="338" height="211" alt="image" src="https://github.com/user-attachments/assets/b51dc783-3919-4d26-966f-98b68e30e51a" />
 
 Model graph:
-Open circuit: <img width="433" height="220" alt="image" src="https://github.com/user-attachments/assets/28db9c81-ddcf-4ea2-b90d-330a6591176f" />
-Load Circuit: <img width="503" height="301" alt="image" src="https://github.com/user-attachments/assets/da205116-c475-416c-a58d-9b071c1a58c1" />
+Open circuit: <img width="449" height="417" alt="image" src="https://github.com/user-attachments/assets/557b472c-d2ac-44db-a02a-60ee3b2c517a" />
+
+Load Circuit: <img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/9629b3a1-5345-4e66-8ec5-b94a9fb34f9b" />
+
 
 
 Calculation:  
 
-Open circuit characteristics: <img width="449" height="417" alt="image" src="https://github.com/user-attachments/assets/557b472c-d2ac-44db-a02a-60ee3b2c517a" />
-
-                             <img width="1266" height="780" alt="image" src="https://github.com/user-attachments/assets/84a4b81b-0dd2-44f8-958a-8b683185799b" />
-
-
+Open circuit characteristics: 
   
-Load Circuit Characteristics: <img width="347" height="295" alt="image" src="https://github.com/user-attachments/assets/9629b3a1-5345-4e66-8ec5-b94a9fb34f9b" />
-
-                              <img width="1133" height="705" alt="image" src="https://github.com/user-attachments/assets/84481f15-40b6-4880-8311-f95b9b5ae1f2" />
+Load Circuit Characteristics: 
+                              
 
  
 Result:
